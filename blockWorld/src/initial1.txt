@@ -1,0 +1,5 @@
+ON(A,B)
+ON(B,C)
+ON(C,D)
+ONTABLE(D)
+
